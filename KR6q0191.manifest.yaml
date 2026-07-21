@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0191_000.yaml, hash: 'sha256:3ee0d24a33c62356226ebb27ae74a0df54ae0b360d892fd08e5803c5f36a51b6'}
+  - {seq: 0, filename: KR6q0191_000.yaml, hash: 'sha256:622168955be79dcdb043727cdfcc4f73c03ead97e5a08fc6989beb5ecb5e68c8'}
   - {seq: 1, filename: KR6q0191_001.yaml, hash: 'sha256:cc063ffc6238d965b36313a8386d4882e8c327fa4dd9a70f06812be99512ecf9'}
   - {seq: 2, filename: KR6q0191_002.yaml, hash: 'sha256:96a703eceb2af18c475202730147f99b174b634fe04cc3d264e410bc463cf12d'}
   - {seq: 3, filename: KR6q0191_003.yaml, hash: 'sha256:b722712cb8a3d495ee16dec43087ea42e9d5244cd908e3d8ec60746fd873cc9e'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 7, filename: KR6q0191_007.yaml, hash: 'sha256:ac4d9802b65893cf9fde83c2fb3b5533271011388e442c88ebbbcd2754424076'}
   - {seq: 8, filename: KR6q0191_008.yaml, hash: 'sha256:95485f30872d294d4d4a95f1c3d51b389675e04c8f74bb997774ff15a908b958'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0191_000.markers.yaml, hash: 'sha256:0c8ea96e576e55d7795c1fa5e23aedeb396119c516000eb09ed0fd9892db731d'}
+  - {seq: 0, role: markers, filename: assets/KR6q0191_000.markers.yaml, hash: 'sha256:2fb91d56eb4c77d942eb7bb6f4088d3253b566a4dbda0ae420e27bc80dfc9f98'}
   - {seq: 1, role: markers, filename: assets/KR6q0191_001.markers.yaml, hash: 'sha256:7c38b9e1028df785bf8f59c4bb9778acf01f8a3376a5b87dcec4f5ee9d6fbcab'}
   - {seq: 2, role: markers, filename: assets/KR6q0191_002.markers.yaml, hash: 'sha256:bb8fb64757da2b486dea34674aa13410da3ec162a934931b2069047e3e58a520'}
   - {seq: 3, role: markers, filename: assets/KR6q0191_003.markers.yaml, hash: 'sha256:89176eca01ffb7d965058542998fd7069ae4e5eb85ce4d51df6d2e2fa7292bd0'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0191_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題醒世錄
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0191_J_000-mulu-2
     span:
-    - front
+    - body
     - 325
     - 325
   label: 卷一目錄
@@ -4261,7 +4261,7 @@ table_of_contents:
   label: 翻譯部
   type: mulu
   level: 1
-hash: sha256:b0527d70f4eff00b10090e62c70d301d07bbc5b8a28ec2bc607bea0390f40180
+hash: sha256:dbb8368815df35427d9abc924f23928fa63256026d9b7a6e6226adab5ddfe970
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
